@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
+
 public/js/app.js
 public/js/vendor.js
 distr
@@ -131,3 +132,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# prettier
+.prettierrc
+
+# package-lock
+package-lock.json
